@@ -15,6 +15,8 @@ we selected 20 isolates
 - 6 isolates are ***E. coli sp.***
 - 8 isolates are ***salmonella sp.***
 
+ # sub culturing of those isolates were done on 19_11_2024
+
 ## results of isolates species identification
 
  <!--
@@ -64,6 +66,7 @@ we selected 20 isolates
  
  C2, D1 and D2 - C
  
+ Jannice and Camilla will perform DNA extraction to 3 isolates for demonstration then as students will do the other.
  
 
 ## R Markdown
